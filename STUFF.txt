@@ -1,0 +1,7 @@
+=======================
+
+MESSAGE #1
+HELLO WORLD from BIT286
+THIS IS A TEST
+
+=======================
